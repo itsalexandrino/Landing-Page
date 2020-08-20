@@ -87,6 +87,7 @@ nav a:hover{
  }
  #alinharTexto2{
     text-align: center;
+    margin-top: 50px;
 }
  .card-deck{
     padding: 150px;
@@ -184,3 +185,11 @@ height: 100%;
     padding: 150px;
 
  }
+
+.color{
+    background-color: #d45f68;
+    
+}
+#container-form{
+    margin-top: 5;
+}
